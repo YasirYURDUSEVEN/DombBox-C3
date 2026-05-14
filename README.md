@@ -5,7 +5,7 @@ ESP32-C3 ile Retro Oyun Konsolu
 
 Bağlantı Şeması:
 
-<img width="250" height="300" alt="Ekran Resmi 2026-05-14 10 01 04" src="https://github.com/user-attachments/assets/3380a237-a2d3-48d3-8c91-0aabe5a4fe4e" />
+<img width="250" height="300" alt="Bağlantı Şeması" src="https://github.com/user-attachments/assets/3380a237-a2d3-48d3-8c91-0aabe5a4fe4e" />
 
 Proje İçeriği ve Amacı:
 
@@ -17,4 +17,4 @@ Bu projedeki temel amacım; elektroniğe ve yazılıma yeni başlayan insanları
 
 Gerçekte Nasıl Görünüyor:
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/bac0c14e-79e5-485a-a956-ccb756a1c762" />
+<img width="550" height="550" alt="DombBox" src="https://github.com/user-attachments/assets/bac0c14e-79e5-485a-a956-ccb756a1c762" />
